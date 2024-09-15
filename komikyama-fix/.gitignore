@@ -1,0 +1,33 @@
+# Ignore macOS files
+.DS_Store
+
+# Ignore node modules and environment files
+node_modules/
+myenv/
+
+# Ignore system files and directories
+/.bash_history
+/.bash_sessions/
+/.bashrc
+/.config/
+/.DS_Store
+/.flutter
+/.nvm
+/.vscode
+/.Trash/
+/Library/
+/Applications/
+/Desktop/
+/Documents/
+/Downloads/
+/Movies/
+/Music/
+/Pictures/
+/Public/
+
+# Ignore pub cache
+.pub-cache/
+
+# Ignore others
+package-lock.json
+
